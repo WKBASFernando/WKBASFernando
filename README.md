@@ -1,27 +1,28 @@
-<h1 align="center">Hi 👋, I'm Angelo Fernando</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+<!-- GitHub Profile README --> <div align="center"> <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="450" height="300">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ANGELO FERNANDO
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Software+Engineer+from+Sri+Lanka;Java+Developer;Web+Development+Enthusiast" alt="Typing SVG" /></a> </p>
+Show Image
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wkbasfernando&label=Profile%20views&color=0e75b6&style=flat" alt="wkbasfernando" /> </p>
-
-- 🌱 I’m currently learning **Java at IJSE-Institute of Software Engineering**
-
-- 👨‍💻 All of my projects are available at [https://wkbasfernando.github.io/Portfolio/](https://wkbasfernando.github.io/Portfolio/)
-
-- 📫 How to reach me **sankalpaangelo@gmail.com**
-
-- ⚡ Fun fact **I think I can sing...😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/angelo-fernando-78606131a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/angelo-fernando-78606131a/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24663910/angelo-sankalpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24663910/angelo-sankalpa" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/profile.php?id=100073398553521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100073398553521" height="30" width="40" /></a>
-<a href="https://instagram.com/angelo_x_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angelo_x_001" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wkbasfernando&show_icons=true&locale=en&layout=compact" alt="wkbasfernando" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wkbasfernando&show_icons=true&locale=en" alt="wkbasfernando" /></p>
+<a href="https://wkbasfernando.github.io/Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /> </a> <a href="mailto:sankalpaangelo@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div> <hr>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> ABOUT ME
+java
+public class AboutMe {
+    private final String name = "Angelo Fernando";
+    private final String location = "Sri Lanka";
+    private final String education = "Institute of Software Engineering (IJSE)";
+    
+    public String getCurrentFocus() {
+        return "Learning Core Java and Web Technologies";
+    }
+    
+    public String getFunFact() {
+        return "I think I can sing...😅";
+    }
+}
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> CONNECT WITH ME
+<p align="center"> <a href="https://linkedin.com/in/angelo-fernando-78606131a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://stackoverflow.com/users/24663910/angelo-sankalpa" target="_blank"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /> </a> <a href="https://www.facebook.com/profile.php?id=100073398553521" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a> <a href="https://instagram.com/angelo_x_001" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> </p>
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> LANGUAGES & TOOLS
+<div align="center"> <p align="center"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> </p> </div>
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GITHUB STATS
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wkbasfernando&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkbasfernando&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180em" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=wkbasfernando&theme=react&hide_border=true" alt="GitHub Streak" /> </div> <!-- SPOTIFY --> <div align="center"> <br> <a href="https://open.spotify.com/user/31lnn5oscilljfpj5qyiy5zshpti"> <img src="https://novatorem-wkbasfernando.vercel.app/api/spotify" alt="Angelo's Spotify Playing" width="450" /> </a> </div>
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </div>
