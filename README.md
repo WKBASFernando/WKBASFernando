@@ -4,20 +4,23 @@
 
 <a href="https://wkbasfernando.github.io/Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /> </a> <a href="mailto:sankalpaangelo@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div> <hr>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> ABOUT ME
+
 java
-public class AboutMe {
-    private final String name = "Angelo Fernando";
-    private final String location = "Sri Lanka";
-    private final String education = "Institute of Software Engineering (IJSE)";
+
+    public class AboutMe {
+        private final String name = "Angelo Fernando";
+        private final String location = "Sri Lanka";
+        private final String education = "Institute of Software Engineering (IJSE)";
     
-    public String getCurrentFocus() {
-        return "Learning Core Java and Web Technologies";
-    }
+        public String getCurrentFocus() {
+            return "Learning Core Java and Web Technologies";
+        }
     
-    public String getFunFact() {
-        return "I think I can sing...😅";
+        public String getFunFact() {
+            return "I think I can sing...😅";
+        }
     }
-}
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> CONNECT WITH ME
 <p align="center"> <a href="https://linkedin.com/in/angelo-fernando-78606131a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://stackoverflow.com/users/24663910/angelo-sankalpa" target="_blank"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /> </a> <a href="https://www.facebook.com/profile.php?id=100073398553521" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a> <a href="https://instagram.com/angelo_x_001" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> </p>
 <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> LANGUAGES & TOOLS
