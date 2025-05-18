@@ -1,7 +1,6 @@
 <!-- GitHub Profile README --> <div align="center"> <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="450" height="300">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ANGELO FERNANDO
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Software+Engineer+from+Sri+Lanka;Java+Developer;Web+Development+Enthusiast" alt="Typing SVG" /></a> </p>
-Show Image
 
 <a href="https://wkbasfernando.github.io/Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /> </a> <a href="mailto:sankalpaangelo@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div> <hr>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> ABOUT ME
